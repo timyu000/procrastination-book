@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>zh</dc:language>
+    <dc:title>拖延心理学</dc:title>
+    <meta name="calibre:title_sort" content="拖延心理学"/>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">罗伯特•西奥迪尼</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">B.J.福格</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">德内拉•梅多斯</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">阿图•葛文德</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">约翰•戈特曼</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">斯坦尼斯拉斯•迪昂</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">斯科特•佩奇</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">邱国鹭</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">迪帕克•马尔霍特拉</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">马克斯•巴泽曼</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">丹尼尔•韦格纳</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">库尔特•格雷</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">简•博克</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">莱诺拉•袁</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">凯瑟琳•曼尼克斯</dc:creator>
+    <dc:creator opf:file-as="罗伯特•西奥迪尼 &amp; B.J.福格 &amp; 德内拉•梅多斯 &amp; 阿图•葛文德 &amp; 约翰•戈特曼 &amp; 斯坦尼斯拉斯•迪昂 &amp; 斯科特•佩奇 &amp; 邱国鹭 &amp; 迪帕克•马尔霍特拉 &amp; 马克斯•巴泽曼 &amp; 丹尼尔•韦格纳 &amp; 库尔特•格雷 &amp; 简•博克 &amp; 莱诺拉•袁 &amp; 凯瑟琳•曼尼克斯 &amp; 菲利普•津巴多" opf:role="aut">菲利普•津巴多</dc:creator>
+    <dc:contributor opf:role="bkp">epubsplit</dc:contributor>
+    <dc:publisher>浙江人民出版社</dc:publisher>
+    <dc:date>2022-03-25T16:00:00+00:00</dc:date>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <meta name="calibre:timestamp" content="2025-01-04T04:16:46.721050+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">882abfbf-e457-48eb-95c0-23d77ae59110</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="00361.jpeg" media-type="image/jpeg"/>
+    <item id="a1" href="text/part0225.html" media-type="application/xhtml+xml"/>
+    <item id="a2" href="text/part0226.html" media-type="application/xhtml+xml"/>
+    <item id="a3" href="text/part0227.html" media-type="application/xhtml+xml"/>
+    <item id="a4" href="text/part0228.html" media-type="application/xhtml+xml"/>
+    <item id="a5" href="text/part0229.html" media-type="application/xhtml+xml"/>
+    <item id="a6" href="text/part0230_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="a7" href="text/part0230_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="a8" href="text/part0231.html" media-type="application/xhtml+xml"/>
+    <item id="a9" href="text/part0232.html" media-type="application/xhtml+xml"/>
+    <item id="a10" href="text/part0233.html" media-type="application/xhtml+xml"/>
+    <item id="a11" href="text/part0234.html" media-type="application/xhtml+xml"/>
+    <item id="a12" href="text/part0235.html" media-type="application/xhtml+xml"/>
+    <item id="a13" href="text/part0236.html" media-type="application/xhtml+xml"/>
+    <item id="a14" href="text/part0237.html" media-type="application/xhtml+xml"/>
+    <item id="a15" href="text/part0238.html" media-type="application/xhtml+xml"/>
+    <item id="a16" href="text/part0239.html" media-type="application/xhtml+xml"/>
+    <item id="a17" href="text/part0240.html" media-type="application/xhtml+xml"/>
+    <item id="a18" href="text/part0241.html" media-type="application/xhtml+xml"/>
+    <item id="a19" href="text/part0242.html" media-type="application/xhtml+xml"/>
+    <item id="a20" href="text/part0243_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="a21" href="text/part0243_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="a22" href="text/part0244.html" media-type="application/xhtml+xml"/>
+    <item id="a23" href="text/part0245.html" media-type="application/xhtml+xml"/>
+    <item id="a24" href="text/part0246.html" media-type="application/xhtml+xml"/>
+    <item id="a25" href="text/part0247.html" media-type="application/xhtml+xml"/>
+    <item id="a26" href="text/part0248.html" media-type="application/xhtml+xml"/>
+    <item id="a27" href="text/part0249.html" media-type="application/xhtml+xml"/>
+    <item id="a28" href="text/part0250.html" media-type="application/xhtml+xml"/>
+    <item id="a29" href="text/part0251.html" media-type="application/xhtml+xml"/>
+    <item id="a30" href="text/part0252.html" media-type="application/xhtml+xml"/>
+    <item id="a31" href="text/part0253.html" media-type="application/xhtml+xml"/>
+    <item id="a32" href="text/part0254.html" media-type="application/xhtml+xml"/>
+    <item id="a33" href="text/part0255.html" media-type="application/xhtml+xml"/>
+    <item id="a34" href="text/part0256.html" media-type="application/xhtml+xml"/>
+    <item id="a35" href="text/part0257.html" media-type="application/xhtml+xml"/>
+    <item id="a36" href="text/part0258.html" media-type="application/xhtml+xml"/>
+    <item id="a37" href="text/part0259.html" media-type="application/xhtml+xml"/>
+    <item id="uONgIvPXfBPQwxgPaKrYgYF" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a40" href="images/00362.jpeg" media-type="image/jpeg"/>
+    <item id="a55" href="images/00363.jpeg" media-type="image/jpeg"/>
+    <item id="a44" href="images/00364.jpeg" media-type="image/jpeg"/>
+    <item id="a39" href="images/00365.jpeg" media-type="image/jpeg"/>
+    <item id="a56" href="images/00366.jpeg" media-type="image/jpeg"/>
+    <item id="a45" href="images/00367.jpeg" media-type="image/jpeg"/>
+    <item id="a51" href="images/00368.jpeg" media-type="image/jpeg"/>
+    <item id="a43" href="images/00369.jpeg" media-type="image/jpeg"/>
+    <item id="a46" href="images/00370.jpeg" media-type="image/jpeg"/>
+    <item id="a50" href="images/00371.jpeg" media-type="image/jpeg"/>
+    <item id="a48" href="images/00372.jpeg" media-type="image/jpeg"/>
+    <item id="a54" href="images/00373.jpeg" media-type="image/jpeg"/>
+    <item id="a53" href="images/00374.jpeg" media-type="image/jpeg"/>
+    <item id="a47" href="images/00375.jpeg" media-type="image/jpeg"/>
+    <item id="a49" href="images/00376.jpeg" media-type="image/jpeg"/>
+    <item id="a52" href="images/00377.jpeg" media-type="image/jpeg"/>
+    <item id="a59" href="images/00378.jpeg" media-type="image/jpeg"/>
+    <item id="a58" href="images/00379.jpeg" media-type="image/jpeg"/>
+    <item id="a42" href="images/00380.jpeg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="page_css1" href="page_styles1.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="a1"/>
+    <itemref idref="a2"/>
+    <itemref idref="a3"/>
+    <itemref idref="a4"/>
+    <itemref idref="a5"/>
+    <itemref idref="a6"/>
+    <itemref idref="a7"/>
+    <itemref idref="a8"/>
+    <itemref idref="a9"/>
+    <itemref idref="a10"/>
+    <itemref idref="a11"/>
+    <itemref idref="a12"/>
+    <itemref idref="a13"/>
+    <itemref idref="a14"/>
+    <itemref idref="a15"/>
+    <itemref idref="a16"/>
+    <itemref idref="a17"/>
+    <itemref idref="a18"/>
+    <itemref idref="a19"/>
+    <itemref idref="a20"/>
+    <itemref idref="a21"/>
+    <itemref idref="a22"/>
+    <itemref idref="a23"/>
+    <itemref idref="a24"/>
+    <itemref idref="a25"/>
+    <itemref idref="a26"/>
+    <itemref idref="a27"/>
+    <itemref idref="a28"/>
+    <itemref idref="a29"/>
+    <itemref idref="a30"/>
+    <itemref idref="a31"/>
+    <itemref idref="a32"/>
+    <itemref idref="a33"/>
+    <itemref idref="a34"/>
+    <itemref idref="a35"/>
+    <itemref idref="a36"/>
+    <itemref idref="a37"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="00361.jpeg" title="Cover"/>
+    <reference type="other.titlepage" href="cover.xhtml" title="Cover page"/>
+  </guide>
+</package>
